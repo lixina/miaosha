@@ -1,0 +1,21 @@
+257  [main] DEBUG c.m.logback.LogbackDemoTest - ======debug
+260  [main] INFO  c.m.logback.LogbackDemoTest - ======info
+260  [main] WARN  c.m.logback.LogbackDemoTest - ======warn
+260  [main] ERROR c.m.logback.LogbackDemoTest - ======error
+260  [main] INFO  c.m.logback.LogbackDemoTest - Hello,Aub!
+261  [main] INFO  c.m.logback.LogbackDemoTest - Hello,Aub!   3Q!
+261  [main] INFO  c.m.logback.LogbackDemoTest - Fruit:  apple,banana
+240  [main] DEBUG c.m.logback.LogbackDemoTest - ======debug
+244  [main] INFO  c.m.logback.LogbackDemoTest - ======info
+244  [main] WARN  c.m.logback.LogbackDemoTest - ======warn
+245  [main] ERROR c.m.logback.LogbackDemoTest - ======error
+245  [main] INFO  c.m.logback.LogbackDemoTest - Hello,Aub!
+246  [main] INFO  c.m.logback.LogbackDemoTest - Hello,Aub!   3Q!
+246  [main] INFO  c.m.logback.LogbackDemoTest - Fruit:  apple,banana
+245  [main] DEBUG c.m.logback.LogbackDemoTest - ======debug
+248  [main] INFO  c.m.logback.LogbackDemoTest - ======info
+248  [main] WARN  c.m.logback.LogbackDemoTest - ======warn
+248  [main] ERROR c.m.logback.LogbackDemoTest - ======error
+248  [main] INFO  c.m.logback.LogbackDemoTest - Hello,Aub!
+250  [main] INFO  c.m.logback.LogbackDemoTest - Hello,Aub!   3Q!
+250  [main] INFO  c.m.logback.LogbackDemoTest - Fruit:  apple,banana

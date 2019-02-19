@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.validation.ConstraintValidator'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

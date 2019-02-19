@@ -1,0 +1,7 @@
+721  [main] DEBUG c.m.logback.LogbackDemoTest - ======debug
+724  [main] INFO  c.m.logback.LogbackDemoTest - ======info
+724  [main] WARN  c.m.logback.LogbackDemoTest - ======warn
+724  [main] ERROR c.m.logback.LogbackDemoTest - ======error
+724  [main] INFO  c.m.logback.LogbackDemoTest - Hello,Aub!
+725  [main] INFO  c.m.logback.LogbackDemoTest - Hello,Aub!   3Q!
+726  [main] INFO  c.m.logback.LogbackDemoTest - Fruit:  apple,banana
